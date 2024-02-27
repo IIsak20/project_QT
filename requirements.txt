@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+pyqt5-tools==5.15.9.3.3
+random
+sys
+sqlite3
